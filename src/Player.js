@@ -7,7 +7,7 @@ import Footer from './Footer'
 function Player({ spotify }) {
     return (
         <div className="player">
-            <div class="player__body">
+            <div className="player__body">
                 {/* Sidebar */}
                 <Sidebar />
                 {/* Body */}
