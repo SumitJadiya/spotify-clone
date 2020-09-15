@@ -1,10 +1,10 @@
 ### What's in there
 
-> User Authentication
-> Spotify API
-> Responsive Design
-> Material UI (Icons)
-> React Context API (Like REDUX)
-> React Hooks
-> Entire React Tech Stack
-> Firebase Hosting
+> User Authentication <br/>
+> Spotify API<br/>
+> Responsive Design<br/>
+> Material UI (Icons)<br/>
+> React Context API (Like REDUX)<br/>
+> React Hooks<br/>
+> Entire React Tech Stack<br/>
+> Firebase Hosting<br/>
